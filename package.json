@@ -1,11 +1,19 @@
 {
-  "name": "product",
+  "name": "pricingplsql",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dheerendragoswami/pricingplsql.git"
+  },
+  "author": "Dheerendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheerendragoswami/pricingplsql/issues"
+  },
+  "homepage": "https://github.com/dheerendragoswami/pricingplsql#readme"
 }
